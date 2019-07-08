@@ -4,7 +4,7 @@ The Dockerfile contains the configuration for pytorch with the support of visual
 
 This repository is tested on Ubuntu 16.04.
 
-# Usage
+### Usage
 To build docker, please run 
 ```sh
 # On Ubuntu/Debian
