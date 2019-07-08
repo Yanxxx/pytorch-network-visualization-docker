@@ -12,3 +12,5 @@ RUN pip install jupyter
 # pytorch vision repository 
 RUN pip install torchvision
 
+# pytorch tensorboard
+RUN pip install tensorboardX
