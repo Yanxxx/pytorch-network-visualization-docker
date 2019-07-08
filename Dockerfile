@@ -13,4 +13,7 @@ RUN pip install jupyter
 RUN pip install torchvision
 
 # pytorch tensorboard
-RUN pip install tensorboardX
+RUN pip install tensorflow tensorboardX 
+
+# common packages
+RUN pip install matplotlib scipy pillow tqdm future
