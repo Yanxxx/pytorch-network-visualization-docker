@@ -1,6 +1,6 @@
 # pytorch-network-visualization-docker
 
-The Dockerfile contains the configuration for pytorch with the support of visualization packages, jupyter and torchvision repository. 
+The Dockerfile contains the configuration for pytorch with the support of visualization packages, jupyter, tensorboard and torchvision repository. 
 
 This repository is tested on Ubuntu 16.04.
 
