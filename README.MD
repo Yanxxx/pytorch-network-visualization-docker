@@ -24,4 +24,4 @@ sh run-jupyter.sh
 ```
 
 ### TODO
- - [x] one shell start jupter docker.
+ - [x] one shell start jupyter docker.
